@@ -21,7 +21,7 @@ const CreatePage = () => {
     setLoading(true);
 
     try {
-      await api.post("http://localhost:5000/api/notes", {
+      await api.post("/notes", {
         title,
         content
       });

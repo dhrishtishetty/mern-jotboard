@@ -14,7 +14,7 @@ const HomePage = () => {
   useEffect(() => {
     const fetchNotes = async () => {
       try {
-        const res = await api.get("http://localhost:5000/api/notes");
+        const res = await api.get("/notes");
         console.log(res.data);
 
          console.log(res.data);
