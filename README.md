@@ -63,7 +63,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-**Live Demo:** [Add Deployment Link Here]
+**Live Demo:** https://mern-jotboard.onrender.com
 
 The application can be deployed using platforms such as Vercel, Render, or Railway, with MongoDB Atlas used as the cloud database.
 
