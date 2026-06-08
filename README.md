@@ -69,7 +69,8 @@ The application can be deployed using platforms such as Vercel, Render, or Railw
 
 ## 📸 Preview
 
-Add screenshots or a demo GIF here.
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/a18b4c42-cd6f-4195-82e1-4aebd5600c7d" />
+
 
 ## 👨‍💻 Author
 
